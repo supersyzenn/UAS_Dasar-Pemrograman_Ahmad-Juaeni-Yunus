@@ -1,8 +1,8 @@
 # Ujian Akhir Semester 
-<br>Mata Kuliah 	: Dasar Pemrograman
-<br>Nama	      	: Ahmad Juaeni Yunus
-<br>NIM	        	:	1227050011
-<br>Jurusan		    : [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+Mata Kuliah 	: Dasar Pemrograman
+Nama	      	: Ahmad Juaeni Yunus
+NIM	        : 1227050011
+Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 Definisi Matriks, Matriks merupakan sekumpulan informasi yang setiap individu elemenya diacu dengan menggunakan dua buah indeks (baris dan kolom).
