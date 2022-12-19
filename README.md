@@ -135,4 +135,4 @@ Num(2,3) : 6
 Bilangan yang tidak habis dibagi 3, 5, 7 :  1 2 4
 --------------------------------
 Process exited after 16.63 seconds with return value 0
-Press any key to continue . . .
+Press any key to continue . . . .
