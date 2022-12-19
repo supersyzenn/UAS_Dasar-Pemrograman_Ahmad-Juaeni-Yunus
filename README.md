@@ -83,7 +83,6 @@ int main() {
 }
 
 ## Output
-
 _________________________________________________________________
                 MEMBUAT PROGRAM BARIS DAN KOLOM
  NILAI DIINPUTKAN DAN DIBALIK BARIS KE KOLOM, KOLOM KE BARIS
@@ -116,7 +115,7 @@ Nilai dibalik baris jadi kolom, kolom jadi baris :
 3 6
 
 
-_________________________________________________________________
+______________________________________________________________
 PROGRAM MENCARI BILANGAN YANG TIDAK HABIS DIBAGI DENGAN 3, 5, 7
 _________________________________________________________________
 Nama :  Ahmad Juaeni Yunus
@@ -124,7 +123,6 @@ Nim  :  1227050011
 _________________________________________________________________
 
 Masukkan banyak baris: 2
-
 Masukkan banyak kolom: 3
 Num(1,1) : 1
 Num(1,2) : 2
